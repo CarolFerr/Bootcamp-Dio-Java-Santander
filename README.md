@@ -8,7 +8,7 @@ Este repositório contém todos os desafios fornecidos pela DIO junto ao Santand
 
 ## 🎢 Desafios
 - [*Desafio Controle de Fluxo*](https://github.com/CarolFerr/Desafio-Dio-Java-Santander/tree/main/DesafioControleFluxo)
-- [*Desafio Conta Bancaria*]()
+- [*Desafio Conta Bancaria*](https://github.com/CarolFerr/Desafio-Dio-Java-Santander/tree/main/contaBanco)
 
 
 ## ⚒️ Ferramentas Utilizadas
