@@ -7,7 +7,7 @@
 Este repositório contém todos os desafios fornecidos pela DIO junto ao Santander para esse Bootcamp que visa realizar o treinamento Backend utilizando a linguagem de programação Java.
 
 ## 🎢 Desafios
-- [*Desafio Controle de Fluxo*]()
+- [*Desafio Controle de Fluxo*](https://github.com/CarolFerr/Desafio-Dio-Java-Santander/tree/main/DesafioControleFluxo)
 - [*Desafio Conta Bancaria*]()
 
 
